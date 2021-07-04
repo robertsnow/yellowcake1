@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: My Realty Company
+featuredImage: https://ucarecdn.com/e891711a-f0ce-41a3-a1e6-61d24b9c6924/
+subtitle: " Residential and Commercial Realty"
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
